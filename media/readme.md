@@ -2,7 +2,7 @@
 
 # Nushell
 
-These are videos that showcase nushell. These are mostly in reverse chronological order with the most recent is at the top.
+These are videos that showcase nushell. These are mostly in reverse chronological order with the most recent at the top.
 
 - [A quick intro to Nushell (Couchbase meetup)](https://www.youtube.com/watch?v=bMpYyqWCzZk)
 - [The Epic Nushell 0.60 Release video](https://www.youtube.com/watch?v=-lWL7Nc-OX4)
