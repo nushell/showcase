@@ -29,3 +29,5 @@ In alphabetical order.
 <img src="./nushell-round-black2.png" alt="isolated" width="200" title="nushell-round-black2.png"/>
 
 <img src="./nushell-round-black4.png" alt="isolated" width="200" title="nushell-round-black4.png"/>
+
+<img src="./nushell-sliced.png" alt="isolated" width="200" title="nushell-sliced.png"/>
