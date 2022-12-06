@@ -9,3 +9,4 @@ This is a place to hold blog entries that we come across created by people using
 - https://jacekw.dev/blog/2022/first-experiences-with-nushell/
 - https://danielgafni.medium.com/the-modern-linux-cli-stack-46253688b53d
 - https://dataswamp.org/~solene/2022-10-31-nushell.html
+- https://zenn.dev/hkawa
