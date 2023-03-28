@@ -11,3 +11,4 @@ This is a place to hold blog entries that we come across created by people using
 - https://dataswamp.org/~solene/2022-10-31-nushell.html
 - https://zenn.dev/hkawa
 - https://www.reillywood.com/blog/why-nu/
+- https://determinate.systems/posts/nuenv
