@@ -13,3 +13,4 @@ This is a place to hold blog entries that we come across created by people using
 - https://www.reillywood.com/blog/why-nu/
 - https://determinate.systems/posts/nuenv
 - https://jpospisil.com/2023/05/25/writing-shell-scripts-in-nushell
+- https://www.seachess.net/notes/from-jq-to-nushell/
