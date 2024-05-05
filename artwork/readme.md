@@ -31,3 +31,7 @@ In alphabetical order.
 <img src="./nushell-round-black4.png" alt="isolated" width="200" title="nushell-round-black4.png"/>
 
 <img src="./nushell-sliced.png" alt="isolated" width="200" title="nushell-sliced.png"/>
+
+<img src="./wsh-nu.png" alt="isolated" width="200" title="wsh-nu.png"/>
+
+<img src="./wsh-nushell.png" alt="isolated" width="200" title="wsh-nushell.png"/>
