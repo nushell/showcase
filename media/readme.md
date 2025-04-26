@@ -4,6 +4,7 @@
 
 These are videos that showcase nushell. These are mostly in reverse chronological order with the most recent at the top.
 
+- [I Was Wrong About Nushell (I Finally Get It Now) - YouTube](https://www.youtube.com/watch?v=LFBOLx5KiME)
 - [A quick intro to Nushell (Couchbase meetup)](https://www.youtube.com/watch?v=bMpYyqWCzZk)
 - [The Epic Nushell 0.60 Release video](https://www.youtube.com/watch?v=-lWL7Nc-OX4)
 - [Using Nushell to find Unused Dependencies](https://www.youtube.com/watch?v=uCkJC5eSvKw)
