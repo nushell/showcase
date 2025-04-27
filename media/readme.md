@@ -5,20 +5,7 @@
 These are videos that showcase nushell. These are mostly in reverse chronological order with the most recent at the top.
 
 - [I Was Wrong About Nushell (I Finally Get It Now) - YouTube](https://www.youtube.com/watch?v=LFBOLx5KiME)
-- [A quick intro to Nushell (Couchbase meetup)](https://www.youtube.com/watch?v=bMpYyqWCzZk)
-- [The Epic Nushell 0.60 Release video](https://www.youtube.com/watch?v=-lWL7Nc-OX4)
-- [Using Nushell to find Unused Dependencies](https://www.youtube.com/watch?v=uCkJC5eSvKw)
-- [Let's work on Nushell: Porting a command](https://www.youtube.com/watch?v=1GntvzBTEbY)
-- [Nushell Update: Januaray 2022 Edition](https://www.youtube.com/watch?v=1GntvzBTEbY)
-- [A Quick Nushell Update from a hotel room](https://www.youtube.com/watch?v=E5RS9qe2Ow8)
-- [Designing a parallel scripting engine](https://www.youtube.com/watch?v=3o8b_QcrFHc)
-- [Nushell's upcoming engine](https://www.youtube.com/watch?v=8VCKHIooB_8)
-- [Nushell quickie. Working with text files](https://www.youtube.com/watch?v=CPI2XeX-uJQ)
-- [Nushell v0.32.0 Release](https://www.youtube.com/watch?v=AqYxhJKblvY)
-- [Working on Nushell: Improved let command](https://www.youtube.com/watch?v=CnbI14B5luY)
-- [Experimenting with the new engine](https://www.youtube.com/watch?v=2AknX7canvw)
-- [Coding in Nushell: Improving Compile Times](https://www.youtube.com/watch?v=jraWkAg3SF0)
-- [Coding Nushell: Improving the source command](https://www.youtube.com/watch?v=pBOZpyqldZQ)
+- [A quick intro to Nushell (Couchbase meetup)](http://web.archive.org/web/20231223081724/https://www.youtube.com/watch?v=bMpYyqWCzZk) *(web archive)*
 
 # Reedline - Creating a Line Editor in Rust
 
